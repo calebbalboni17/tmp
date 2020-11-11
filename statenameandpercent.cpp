@@ -69,7 +69,7 @@ int main()
 		data.push_back(info.dem);
 		names.push_back(info.name);
 		
-
+states(data[0],data[1],names[0]
 		cout << data.size();
 		
 	}
